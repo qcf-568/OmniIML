@@ -1,4 +1,4 @@
-# Omni-IML: Towards Unified Interpretable Image Manipulation Localization
+# Omni-IML: Towards Unified Interpretable Image Manipulation Localization [paper](https://openreview.net/pdf?id=jBJkP5Fv0m)
 
 <img width="1530" height="855" alt="image" src="https://github.com/user-attachments/assets/c46217f3-1ceb-497d-9737-c50fa2a62dc7" />
 
