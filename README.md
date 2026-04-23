@@ -22,4 +22,4 @@ Each of the pickle (.pk) file in the Omni-273k dataset contains structured text 
 
 Each of the pickle file is a Python dict, where keys are corresponding image names and values are annotations.
 
-The Omni-IML model and code are expected to be released before conference.
+The Omni-IML model and code are expected to be released in a month.
