@@ -10,6 +10,8 @@
 1. Who you are and your institution.
 2. Who is your supervisor/mentor.
 
+You can also apply for this dataset via http://121.41.49.212:9000/apply/omni273k
+
 Each of the pickle (.pk) file in the Omni-273k dataset contains structured text annotation for a public image forgery dataset from the four domains:
 - [DocTamper](https://github.com/qcf-568/DocTamper)
 - [OSTF](https://github.com/qcf-568/OSTF)
